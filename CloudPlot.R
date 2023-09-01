@@ -8,7 +8,7 @@ size: size of labels, by default size = 2
 col: colour of labels, by default col = "blue"
 
 
-```{r, CloudPlot}
+#```{r, CloudPlot}
 # ----------------------------------
 
 CloudPlot <- function(data, gene.list, alpha = 0.03, size = 2, col = "blue") {
@@ -40,4 +40,4 @@ CloudPlot <- function(data, gene.list, alpha = 0.03, size = 2, col = "blue") {
 # asc.manon <- c("Gpx3", "Abca8a", "Abca8b", "Mgp", "Cilp", "Cd55", "Pi1")
 
 # CloudPlot(data = data.4m, gene.list = asc.manon)
-```
+#```
