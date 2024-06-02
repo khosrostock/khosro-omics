@@ -1,7 +1,7 @@
 ################# CloudPlot ###############
 This plot superimpose the Featureplot of different genes
 
-data: the Seurat object dataset
+data: the Seurat object datasets
 gene.list: list of your desired genes
 alpha: transparency of labels, by default alpha = 0.03
 size: size of labels, by default size = 2
